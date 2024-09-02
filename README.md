@@ -4,7 +4,7 @@ It contains:
 
 -> Python code examples, as Jupyter Notebooks
 
--> Slides (in LaTeX), describing the course
+-> Slides (as one PDF file), describing the course
 
 -> Video of Sequential Monte Carlo sampling (linked from the slides)
 
